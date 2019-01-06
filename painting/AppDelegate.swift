@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  painting
 //
-//  Created by 彭皓 on 2019/1/6.
-//  Copyright © 2019年 彭皓. All rights reserved.
+//  Created by 彭皓 on 2018/12/18.
+//  Copyright © 2018年 彭皓. All rights reserved.
 //
 
 import UIKit
